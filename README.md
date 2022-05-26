@@ -1,6 +1,6 @@
 # Macedonian-Adblock-List
 
-Macedonian Adblock list is regional list for blocking ads on Macedonian websites. List is tested and it is working with uBlock Origin and similiar adblockers. 
+Macedonian Adblock list is regional list for blocking ads on Macedonian websites. List is tested and it is working with uBlock Origin and similar adblockers. 
 
 To use it, just paste this (https://raw.githubusercontent.com/fast-technology-1/Macedonian-Adblock-List/main/filter.txt) in your current adblocker.
 
