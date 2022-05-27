@@ -1,5 +1,5 @@
-! Last update: 28 May 2022
 ! Title: Macedonian-Adblock-List
+! Last update: 28 May 2022
 
 24.mk###header > div.container:nth-child(3) > div.header-add-place:last-child
 24.mk###main-section > section.module-top:nth-child(2) > div.container > div.row.no-gutter > div.col-md-4:last-child > div.container > div.sidebar-add-place:nth-child(2)
