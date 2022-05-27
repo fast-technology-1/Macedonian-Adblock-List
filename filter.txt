@@ -1,5 +1,5 @@
+! Last update: 28 May 2022
 ! Title: Macedonian-Adblock-List
-! Last update: 26 May 2022
 
 24.mk###header > div.container:nth-child(3) > div.header-add-place:last-child
 24.mk###main-section > section.module-top:nth-child(2) > div.container > div.row.no-gutter > div.col-md-4:last-child > div.container > div.sidebar-add-place:nth-child(2)
@@ -88,10 +88,15 @@ bitolanews.mk###above-main
 bitolanews.mk###after-first-post
 bitolanews.mk###sidebar-left > div.inner
 bitolanews.mk###sidebar-right > div.inner
+biznisinfo.mk###clever-57103-top-scroll
 biznisvesti.mk###sidebar
 brif.mk###canvas
 brif.mk###custom_html-17
 brif.mk###custom_html-18 > div.textwidget.custom-html-widget
+brif.mk###text-27
+brif.mk###text-28 > div.textwidget
+brif.mk###text-33
+brif.mk###text-64
 brif.mk###text-91 > div.textwidget > p:last-child > a > img
 brif.mk##.banner-image
 brzkrug.com###theme-header > div.header-content:nth-child(2) > div.e3lan.e3lan-top:nth-child(3)
@@ -221,6 +226,13 @@ inovativnost.mk##.paszone-6451.wppaszone
 inovativnost.mk##.td-more-articles-box, .td-front-end-display-block
 inovativnost.mk##.wppaslink
 inovativnost.mk##aside.wppaszone.widget.td_block_template_1:nth-of-type(5)
+inpress.mk###custom_html-3
+inpress.mk###custom_html-4
+inpress.mk###divAdLeft
+inpress.mk###divAdRight
+inpress.mk###facebookpopup-fanback
+inpress.mk###facebookpopup-fanbox
+inpress.mk##.widget_fearless_responsive_image_ad
 instore.mk###revive-0-1 > a:first-child > img
 instore.mk##.heder_baner, .revive
 instore.mk##div.container:nth-child(13) > div.row > div.container.glaven.glaven_baner > div.row > div.col-lg-4.col-sm-12.desna:last-child > div.sticky-nikola > div.baner300.revive:first-child
@@ -384,6 +396,10 @@ panacea.mk###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-chil
 panacea.mk###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap.td-container-wrap:nth-child(2) > div.td-container.tdc-content-wrap > div.vc_row.wpb_row.td-pb-row:first-child > div.wpb_column.vc_column_container.td-pb-span12
 panacea.mk###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap.td-container-wrap:nth-child(2) > div.td-container.tdc-content-wrap > div.vc_row.wpb_row.td-pb-row:nth-child(2) > div.wpb_column.vc_column_container.td-pb-span4:last-child > div.vc_column-inner > div.wpb_wrapper > div.td-a-rec.td-a-rec-id-custom_ad_3.td_uid_3_628b0ef2e9832_rand.td_block_template_1:first-child
 panika.be##.panikaad
+pazar3.mk###div-gpt-ad-1410824517263-4
+pazar3.mk##div.website-wrapper:nth-child(5) > header.nav-header:nth-child(3) > div.container:nth-child(2)
+pazar5.mk###SC_TBlock_405609
+pazar5.mk##div.container:nth-child(5) > section:nth-child(9) > div.col-sm-8:nth-child(2) > div.panel.panel-default:last-child > div.panel-body > div:nth-child(11)
 pedijatar.mk###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar > aside.td_block_template_6.widget.widget_text:nth-child(2)
 pedijatar.mk##.adv-link
 plusinfo.mk###sidebar-footer-1
@@ -409,6 +425,9 @@ puls24.mk##.adv
 puls24.mk##.adv_content
 puls24.mk##.theiaStickySidebar
 radar.mk##.advertisement-content
+reklama5.mk###adDiv
+reklama5.mk###div-gpt-ad-1502972380975-0
+reklama5.mk###div-gpt-ad-1502980424015-0
 republika.mk###post-506138 > div.post-container:last-child > div.row.pb-5 > div.sidebar.col.mt-5.mt-lg-0.ml-xl-5:last-child
 republika.mk##.block__advertising-content
 republika.mk##.sidebar-inner, .text-center
@@ -425,6 +444,8 @@ samorakomet.mk##div.elementor.elementor-145.elementor-location-single.post-33.pa
 sdk.mk###Label1
 sdk.mk###Label7
 sdk.mk##.section, .main-sidebar, .sticky-inside
+sezahrana.mk##.adv-link
+sezahrana.mk##.sezah-target
 sitel.com.mk###block-system-main > div.content > div.page-super-wrapper > div.main-content-wrapper:nth-child(4) > div.container.main-content-container > div.row > div.col-md-4.col-xs-12.sidebar-right:last-child
 skopje1.mk##.alignnone, .size-full, .wp-image-171826
 skopje1.mk##.code-block, .code-block-1
@@ -469,6 +490,7 @@ sportski.mk###revive-0-3 > a:first-child > img
 sportski.mk###taboola-sponsored-below-article
 sportski.mk##.bdaia-e3-container
 sportski.mk##div.code-block.code-block-11.ai-viewport-1.ai-center-h.ai-close.ai-close-fit:nth-child(2)
+srekja.mk##div.widget_vloma_wp_300px.widget
 stipka.mk###better-ads-4
 stipka.mk###bsac-915-1168289085
 stipka.mk###bsac-917-551526367 > a.bsac-link > img.bsac-image
@@ -510,7 +532,6 @@ tera.mk##.block-commercial
 tera.mk##.owl-stage
 think.mk###spu-3680
 think.mk###spu-bg-3680
-time.mk###ads_pane
 time.mk###ads_pane
 time.mk##.bar, .advert_pos
 turbo1.mk###custom_html-6 > div.textwidget.custom-html-widget > a > img
@@ -594,14 +615,36 @@ zenanazena.com##div.featherlight.fca_eoi_featherlight:last-child
 zenskimagazin.mk###main-container > div.row:last-child > aside.col-lg-4.sidebar.sidebar--right:last-child > div.widget.widget_media_image:first-child
 zoom.mk###tdi_13 > div.vc_row.tdi_14.td-ss-row.wpb_row.td-pb-row > div.vc_column.tdi_49.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child
 zoom.mk##.td-ss-main-sidebar
+zurnal.mk###tdi_110 > div.vc_row.tdi_111.wpb_row.td-pb-row > div.vc_column.tdi_132.wpb_column.vc_column_container.tdc-column.td-pb-span3.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_142.vc_row.vc_inner.wpb_row.td-pb-row:nth-child(3) > div.vc_column_inner.tdi_144.wpb_column.vc_column_container.tdc-inner-column.td-pb-span12:last-child > div.vc_column-inner:last-child > div.wpb_wrapper > div.wpb_wrapper.td_block_single_image.td_block_wrap.vc_single_image.tdi_145.td-single-image-.td-pb-border-top.td_block_template_1 > a.td_single_image_bg:first-child
+zurnal.mk###tdi_154
+zurnal.mk###tdi_193 > div.vc_row.tdi_194.wpb_row.td-pb-row
+zurnal.mk###tdi_198 > div.vc_row.tdi_199.wpb_row.td-pb-row > div.vc_column.tdi_214.wpb_column.vc_column_container.tdc-column.td-pb-span3.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.wpb_wrapper.td_block_single_image.td_block_wrap.td-no-img-custom-url.vc_single_image.tdi_223.td-single-image-.td-pb-border-top.td_block_template_1:nth-child(3)
+zurnal.mk###tdi_232 > div.vc_row.tdi_233.wpb_row.td-pb-row > div.vc_column.tdi_235.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_237.vc_row.vc_inner.wpb_row.td-pb-row > div.vc_column_inner.tdi_239.wpb_column.vc_column_container.tdc-inner-column.td-pb-span12:last-child > div.vc_column-inner:last-child > div.wpb_wrapper > div.wpb_wrapper.td_block_single_image.td_block_wrap.vc_single_image.tdi_240.td-single-image-.td-pb-border-top.td_block_template_1:first-child > a.td_single_image_bg:first-child
+zurnal.mk###tdi_62 > div.vc_row.tdi_63.wpb_row.td-pb-row > div.vc_column.tdi_112.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_114.td_block_template_1:nth-child(3)
+zurnal.mk###tdi_62 > div.vc_row.tdi_63.wpb_row.td-pb-row > div.vc_column.tdi_81.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_86.td_block_template_1:nth-child(5) > div:last-child > a.td_spot_img_all > img
+zurnal.mk###tdi_62 > div.vc_row.tdi_63.wpb_row.td-pb-row > div.vc_column.tdi_81.wpb_column.vc_column_container.tdc-column.td-pb-span4:last-child > div.wpb_wrapper:last-child > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_87.td_block_template_1:nth-child(6) > div:last-child > a.td_spot_img_all > img
+zurnal.mk###tdi_62 > div.vc_row.tdi_63.wpb_row.td-pb-row.tdc-element-style > div.vc_column.tdi_65.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child
+zurnal.mk###tdi_75 > div.vc_row.tdi_76.wpb_row.td-pb-row > div.vc_column.tdi_81.wpb_column.vc_column_container.tdc-column.td-pb-span4.td-is-sticky:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_83.vc_row.vc_inner.wpb_row.td-pb-row:nth-child(2) > div.vc_column_inner.tdi_85.wpb_column.vc_column_container.tdc-inner-column.td-pb-span12:last-child > div.vc_column-inner:last-child > div.wpb_wrapper > div.td_block_wrap.td-a-rec.td-a-rec-id-custom-spot.td-a-rec-img.tdi_86.td_block_template_1:first-child
+zurnal.mk###tdi_92 > div.vc_row.tdi_93.wpb_row.td-pb-row.tdc-row-content-vert-center > div.vc_column.tdi_95.wpb_column.vc_column_container.tdc-column.td-pb-span12:last-child > div.wpb_wrapper:last-child > div.vc_row_inner.tdi_97.vc_row.vc_inner.wpb_row.td-pb-row > div.vc_column_inner.tdi_108.wpb_column.vc_column_container.tdc-inner-column.td-pb-span3:last-child > div.vc_column-inner:last-child > div.wpb_wrapper > div.wpb_wrapper.td_block_single_image.td_block_wrap.td-no-img-custom-url.vc_single_image.tdi_109.td-single-image-.td-pb-border-top.td_block_template_1
+zurnal.mk##.monadplug-native-main-wrapper-13310-102810-104793-01653687669636.monadplug-native-main-wrapper
+||10bet.com
+||2mdn.net
+||a.kajgana.com
+||a.sitel.com.mk
+||a.skopjeinfo.mk
+||acadv.net
+||ad.doubleclick.net
+||ad.httpool.com
 ||ad.mox.tv
 ||adexchange.mk
+||adocean.pl
 ||ads.1cm.com.mk
 ||ads.24auto.mk
 ||ads.24rakomet.mk
 ||ads.360stepeni.mk
 ||ads.365.mk
 ||ads.avtoplus.mk
+||ads.biznisinfo.mk
 ||ads.com.mk
 ||ads.crnobelo.mk
 ||ads.deca.mk
@@ -618,6 +661,7 @@ zoom.mk##.td-ss-main-sidebar
 ||ads.gol.mk/media/1991/branding1a.jpg?a$domain=gol.mk
 ||ads.grouper.mk
 ||ads.idividi.com.mk
+||ads.it.mk
 ||ads.kafepauza.mk
 ||ads.kajgana.com
 ||ads.kanal77.mk
@@ -647,10 +691,18 @@ zoom.mk##.td-ss-main-sidebar
 ||ads.tocka.com.mk
 ||ads.trendolend.mk
 ||ads.tv21.tv
+||ads.vionservices.com
+||ads.vrabotuvanje.com.mk
 ||adsdms.mk
 ||adserver.mk
+||adservice.google.com
+||adservice.google.mk
 ||adspi.info
 ||advertiseserve.com
+||adxbid.info
+||adxpremium.services
+||amazon-adsystem.com
+||aplikacii.com
 ||baneri.24fudbal.com.mk
 ||bet365affiliates.com
 ||bttrack.com
@@ -664,15 +716,36 @@ zoom.mk##.td-ss-main-sidebar
 ||clevernt.com
 ||clickattack.mk
 ||cm.adskeeper.co.uk
+||cm.g.doubleclick.net
 ||cm.marketgid.com
 ||cm.mgid.com
 ||cm.revcontent.com
+||coinmedia.tk
+||d.agkn.com
+||display.nativemedia.rs
+||display.nativemedia.rs^
+||doubleclick.net
+||ds-aksb-a.akamaihd.net
+||eadsrv.com
+||easyads.bg
+||easyplatform.com
+||gads.pubmatic.com
+||gamk.hit.gemius.pl
+||googleads.g.doubleclick.net
+||googlesyndication.com
+||hipersushiads.com
+||httpool.com
+||httpool.com.mk
 ||ib.adnxs.com
 ||images.taboola.com
 ||img.revcontent.com
 ||ireklama.mk
 ||jsc.adskeeper.co.uk
 ||jsc.mgid.com
+||keepaneye.mk
+||keepaneyeadmk.hit.gemius.pl
+||keepaneyegdemk.hit.gemius.pl
+||keepaneyemk.adocean.pl
 ||lacmus.mk
 ||linker.mk^
 ||live.acads.net
@@ -685,12 +758,23 @@ zoom.mk##.td-ss-main-sidebar
 ||mas.nth.ch
 ||match.adsrvr.org
 ||match.taboola.com
+||mgid.com
 ||mgid.com^
 ||midas-network.com
 ||mkkeepaneyegde.adocean.pl
 ||mobi-promo.com
+||monadplug.com
+||mozzart.ideaplus.mk
+||n.ads-adnow.com
+||n.ads1-adnow.com
+||n.ads2-adnow.com
+||n.ads3-adnow.com
+||n.ads4-adnow.com
+||n.ads5-adnow.com
+||nativemedia.rs
 ||net-ads.mk
 ||onesignal.com
+||pagead46.l.doubleclick.net
 ||panel.ads.com.mk
 ||pixel.onaudience.com
 ||pixel.quantserve.com
@@ -721,6 +805,7 @@ zoom.mk##.td-ss-main-sidebar
 ||samorakomet.mk/wp-content/uploads/2021/03/vertikalen-384x1024.jpg$domain=samorakomet.mk
 ||samorakomet.mk/wp-content/uploads/2021/03/vertikalen.jpg$domain=samorakomet.mk
 ||script.dotmetrics.net
+||securepubads.g.doubleclick.net
 ||sender.clevernt.com
 ||servicer.adskeeper.co.uk
 ||servicer.mgid.com
@@ -730,16 +815,36 @@ zoom.mk##.td-ss-main-sidebar
 ||smartadserver.com
 ||sportmedia.mk/wp-content/uploads/2022/04/alkaloid-min-151.jpg$domain=sportmedia.mk
 ||sportski.mk/wp-content/uploads/2022/02/1366x768-1.png
+||st-n.ads1-adnow.com
+||st-n.ads2-adnow.com
+||st-n.ads3-adnow.com
+||st-n.ads4-adnow.com
+||st-n.ads5-adnow.com
 ||st-n.gsasd.info
+||static-doubleclick-net.l.google.com
 ||static.365.mk/bekutan.jpg
+||static.doubleclick.net
 ||static.off.mk
+||stats.g.doubleclick.net
+||stats.l.doubleclick.net
 ||storygize.net
 ||supersport.mk/wp-content/uploads/2022/02/1920x1080-1.png$domain=supersport.mk
 ||taboola.com
 ||tags.bluekai.com
 ||tas-mk.toboads.com
 ||toboads.com
+||track.adform.net
+||trc.taboola.com
+||trends.revcontent.com
 ||tv21macedonia.xyz
+||vdads2019.com
+||video-cdn.marketgid.com
+||vionservices.com
+||vmads.eu
+||www.ads.it.mk
 ||www.bid.aero
 ||www.marketgid.com
-
+||www.midas-network.com
+||www.storygize.net
+||www3.smartadserver.com
+||x.bidswitch.net
